@@ -1,6 +1,7 @@
 # PythonToArduinoSerial_Skeleton
 Skeleton Code provided to allow communication directionally from Python -> Arduino. Users should be able to now be able to send directly to arduino's serial port via python. 
 I've provided a simple Example application utilizing this concept, ledColorControl.py also provided along with sketch ledColorControlSketch.c to illustrate potential useage.
+Reference starter code to branch off to new applications.
 
 # Potential Usage control LED lights via python terminal!
 https://github.com/f1rtuna/PythonToArduinoSerial_Skeleton/assets/59737277/96280bba-bb9f-496f-a514-20e17044b61c
